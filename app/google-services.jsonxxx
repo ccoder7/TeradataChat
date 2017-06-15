@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582408266533",
+    "firebase_url": "https://nearby-chat-a77fa.firebaseio.com",
+    "project_id": "nearby-chat-a77fa",
+    "storage_bucket": "nearby-chat-a77fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582408266533:android:b9ff346ae2c8bebe",
+        "android_client_info": {
+          "package_name": "com.dwhpro.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582408266533-vtv0ohie9965t52opn41t84pse0g89u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dwhpro.chat",
+            "certificate_hash": "48592eaa6701fe0f5bc7cf96448150ea1500ce0d"
+          }
+        },
+        {
+          "client_id": "582408266533-ge0c28u7oi364n2l89ccpmqg4hnc2e8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVUUB6SKGUBjSVtw1jr2SQDW0pOGKZnH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582408266533-ge0c28u7oi364n2l89ccpmqg4hnc2e8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
