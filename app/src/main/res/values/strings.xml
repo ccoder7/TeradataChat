@@ -43,7 +43,7 @@
     </string-array>
     <string name="image_profile_mandatory">Please upload a profile picture. The other hotties would like to see you!</string>
     <string name="error_no_gender">Please select your gender</string>
-    <string name="error_no_birthday_title">Please select your birthday</string>
+    <string name="error_no_birthday_title">Please select your birthdate</string>
     <string name="error_no_birthday_message">To tell us how old are you?, because this app doesn\'t allow the under age users enter it.</string>
     <string name="error_unchecked_agreements">Please read and agreed to terms and conditions</string>
     <string name="error_under_age">You must be at least 13 years old.</string>
@@ -429,7 +429,7 @@
     <string name="random_chat">Random Chat</string>
     <string name="title_location_permission">Location Permission</string>
     <string name="text_location_permission">Enable GPS to increase range of search?</string>
-    <string name="ok">Ok</string>
+    <string name="ok">OK</string>
 
     <string name="drawer_myprofile">My Profile</string>
     <string name="drawer_friends">Friends</string>
